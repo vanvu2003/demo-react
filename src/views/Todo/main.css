@@ -1,0 +1,19 @@
+.btn-save {
+    margin-left: 10px;
+}
+
+.todoList {
+    width: 400px;
+    margin: 10px 0;
+    padding: 12px 0;
+    border-bottom: 1px solid gray;
+}
+
+
+.todoList span {
+    font-size: 18px;
+}
+
+.todoList .btn-edit {
+    margin: 0 10px;
+}
